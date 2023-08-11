@@ -1,0 +1,16 @@
+body {
+    
+    background-color: rgb(250, 237, 205); 
+
+  
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 0px;
+}
+    
+
+    
+  
